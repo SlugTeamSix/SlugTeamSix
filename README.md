@@ -1,13 +1,13 @@
-### Hi I'm slug 👋
-I develop for FiveM on the QBCore framework 🐌
-<hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+## Hi I'm slug 👋
+#### I develop for FiveM on the QBCore framework 🐌
+
+<a href="https://github.com/slugteamsix">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=slugteamsix&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!--<a href="https://github.com/SlugTeamSix?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slugteamsix&layout=compact&theme=dracula" />
 </a>
-<!--
+
 **SlugTeamSix/SlugTeamSix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
