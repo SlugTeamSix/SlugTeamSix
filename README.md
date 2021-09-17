@@ -1,8 +1,12 @@
 ### Hi I'm slug 👋
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slugteamsix)](https://github.com/anuraghazra/github-readme-stats)
-
-
+I develop for FiveM on the QBCore framework 🐌
+<hr>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slugteamsix&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slugteamsix&layout=compact&theme=dracula" />
+</a>
 <!--
 **SlugTeamSix/SlugTeamSix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
