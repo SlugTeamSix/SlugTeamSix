@@ -1,5 +1,5 @@
 ## Hi I'm slug 👋
-#### I develop for FiveM on the QBCore framework 🐌
+#### I develop for FiveM and manage a Roleplay server on the QBCore framework 🐌
 
 <a href="https://github.com/slugteamsix">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=slugteamsix&count_private=true&show_icons=true&theme=dracula" />
