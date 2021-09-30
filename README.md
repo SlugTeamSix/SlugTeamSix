@@ -2,11 +2,11 @@
 #### I develop for FiveM and manage a Roleplay server on the [QBCore framework](https://github.com/qbcore-framework) 🐌
 
 <a href="https://github.com/slugteamsix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slugteamsix&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=slugteamsix&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula" />
 </a>
-<!--<a href="https://github.com/SlugTeamSix?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slugteamsix&layout=compact&theme=dracula" />
-</a>
+<a href="https://github.com/SlugTeamSix?tab=repositories">
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=slugteamsix&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula" />
+</a><!--
 
 **SlugTeamSix/SlugTeamSix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
