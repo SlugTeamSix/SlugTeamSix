@@ -1,23 +1,15 @@
-## Hi, I'm slug 👋
-#### I develop for FiveM and manage a Roleplay server on the [QBCore framework](https://github.com/qbcore-framework) 🐌
+## Hi, I'm slug 👋 🐌
+
+I build and operate multiplayer game servers, tools, and infrastructure.
+
+FiveM • CS2 • Rust • Web • Self-hosting
+
+### Projects
+
+🐌 [Escape RP](https://escaperp.com)  
+🦀 [Modded Rust](https://stats.slug.gg/rust)  
+🏄 CS2 Surf
 
 <a href="https://github.com/slugteamsix">
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=slugteamsix&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&theme=dracula" />
-</a><!--👨‍💻
-<a href="https://github.com/SlugTeamSix?tab=repositories">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=slugteamsix&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula" />
 </a>
-<!--
-**SlugTeamSix/SlugTeamSix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
